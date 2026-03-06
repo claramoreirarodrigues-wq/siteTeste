@@ -9,3 +9,16 @@ body {
 a {
     text-decoration: blue;
 }
+
+.box {
+    font-size: 20px;
+    color: aliceblue;
+    height: 300px;
+    width: 500px;
+    border-radius: 10px;
+    background-color: black;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
