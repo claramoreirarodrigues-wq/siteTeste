@@ -16,7 +16,7 @@ a {
     height: 300px;
     width: 500px;
     border-radius: 10px;
-    background-color: black;
+    background-color: none;
     flex-direction: column;
     display: flex;
     align-items: center;
